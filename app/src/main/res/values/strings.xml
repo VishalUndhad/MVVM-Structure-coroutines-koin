@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android MVMV Demo</string>
+    <string name="server_connection">Could not connect to the Patrons server. Please try again later.</string>
+    <string name="try_again_to">Something went wrong, Please try again later.</string>
+    <string name="internet_connection">Internet connection not available.</string>
+    <string name="some_thing_wrong">Something went wrong, please try after sometime</string>
+</resources>
